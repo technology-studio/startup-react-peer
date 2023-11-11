@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/technology-studio/startup-react-peer/compare/v1.0.2...v1.0.3) (2023-11-11)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/config-manager to ^3.2.0 ([ea2b40a](https://github.com/technology-studio/startup-react-peer/commit/ea2b40a4a182f74decd7e7de0b967fd631b77ef1))
+
 ## [1.0.2](https://github.com/technology-studio/startup-react-peer/compare/v1.0.1...v1.0.2) (2022-10-27)
 
 
